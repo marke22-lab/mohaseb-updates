@@ -51,5 +51,10 @@
     "workPermit": 100,
     "iqama": 650
   },
+  "app": {
+    "latest": "1.1",
+    "notes": "",
+    "downloadUrl": ""
+  },
   "messages": []
 }
