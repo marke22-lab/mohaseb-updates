@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "version": "2026.11.17",
+  "published": "2026-11-17",
+  "notes": "النسب النظامية كما في نوفمبر 2026",
+  "vat": {
+    "rate": 0.15,
+    "mandatoryThreshold": 375000,
+    "voluntaryThreshold": 187500,
+    "monthlyFilingThreshold": 40000000
+  },
+  "zakat": {
+    "hijri": 0.025,
+    "greg": 0.025775,
+    "citRate": 0.20
+  },
+  "rett": {
+    "rate": 0.05,
+    "firstHomeExempt": 1000000
+  },
+  "gosi": {
+    "maxWage": 45000,
+    "minWage": 1500,
+    "oh": 0.02,
+    "saned": 0.0075,
+    "legacyAnnuity": 0.09,
+    "newSchedule": [
+      { "from": "2024-07-03", "rate": 0.09 },
+      { "from": "2025-07-01", "rate": 0.095 },
+      { "from": "2026-07-01", "rate": 0.10 },
+      { "from": "2027-07-01", "rate": 0.105 },
+      { "from": "2028-07-01", "rate": 0.11 }
+    ]
+  },
+  "wht": {
+    "management": 0.20,
+    "royalties": 0.15,
+    "related_services": 0.15,
+    "other": 0.15,
+    "technical": 0.05,
+    "rent": 0.05,
+    "tickets": 0.05,
+    "telecom": 0.05,
+    "dividends": 0.05,
+    "loan": 0.05,
+    "insurance": 0.05
+  },
+  "expat": {
+    "levyHigh": 800,
+    "levyLow": 700,
+    "workPermit": 100,
+    "iqama": 650
+  },
+  "messages": []
+}
