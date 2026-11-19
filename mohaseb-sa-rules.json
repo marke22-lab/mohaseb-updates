@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026.11.17",
+  "version": "2026.11.19",
   "published": "2026-11-17",
   "notes": "النسب النظامية كما في نوفمبر 2026",
   "vat": {
@@ -57,7 +57,7 @@
     "downloadUrl": ""
   },
   "contact": {
-    "telegram": "https://t.me/markescope",
+    "telegram": "https://t.me/ap_solutions",
     "channel": "https://t.me/+O4faRbSMhu42MTU0"
   },
   "messages": []
